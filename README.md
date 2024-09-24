@@ -1,2 +1,2 @@
 # Python-First
-Repo for Individual Project from Koding Next Students
+Repo for Individual Project from Koding Next Samarinda Students
