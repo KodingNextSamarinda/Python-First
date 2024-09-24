@@ -1,7 +1,9 @@
 import git
 
-studentName = "Prima Putra"
-teacherName = "Kandika"
+studentName = "Dominic"
+teacherName = "Kandika Prima Putra"
+
+
 local_repo_path = "C:/Github Koding Next/Python-First"
 
 def git_pull_push(repo_path, student, teacher):
