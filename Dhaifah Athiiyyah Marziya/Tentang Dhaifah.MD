@@ -1,0 +1,1 @@
+Dhaifah is a student in Koding Next samarinda Who's Journey started with Python Programming Language. Above is Personal Project that she creates herself.
