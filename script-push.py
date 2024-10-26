@@ -1,7 +1,7 @@
 import git
 
-studentName = "Dominic"
-teacherName = "Kandika Prima Putra"
+studentName = "Fachri Athar"
+teacherName = "Mr. Ahmad Yazid"
 
 
 local_repo_path = "C:/Github Koding Next/Python-First"
