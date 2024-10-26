@@ -1,0 +1,2 @@
+
+trabox=ttk.Combobox(window,text="Language1",width=50,state="readonly",values=langlist)

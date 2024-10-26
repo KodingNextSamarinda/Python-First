@@ -1,0 +1,6 @@
+mainname= input("Once upon a time, there lived a girl named ")
+learn=input(f"{mainname} is an energetic student who really enjoys learning how to ")
+print(f"One day, {mainname}'s friend asked her is she could help her learn how to {learn}")
+friendname=input("Her friend's name is ")
+print(f"{mainname} was really glad that {friendname} asked her if she could help her learn how to {learn} \nand so... the day after, {mainname} and {friendname} learned how to {learn} together")
+print("The End")

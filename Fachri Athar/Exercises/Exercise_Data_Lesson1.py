@@ -1,0 +1,7 @@
+print ("=====>Selamat datang di Restoran Wajan<=====")
+Pelanggan=input("\nNama anda:\n")
+print(f"\n Selamat datang Tuan/Nyonya {Pelanggan}, selamat menikmati makanan anda\n")
+Makanan=input("\nApa makanan yang ingin anda pesan: ")
+Harga=int(input("Berapa harganya: "))
+Banyak=int(input(f"berapa banyak {Makanan} yang ingin anda pesan: \n"))
+print(f"{Pelanggan} ingin memesan {Banyak} {Makanan} dengan total harga {Banyak*Harga}")
