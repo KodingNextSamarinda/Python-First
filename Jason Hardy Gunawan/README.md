@@ -1,0 +1,1 @@
+This is a folder containing some of the personal Project created by Jason Hardy G. during his time learning the basics of Python in Koding Next Samarinda

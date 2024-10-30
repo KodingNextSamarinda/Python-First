@@ -1,6 +1,6 @@
 import git
 
-studentName = "James Jayson Gozali"
+studentName = "Jason Hardy G"
 teacherName = "Mr. Ahmad Yazid"
 
 
@@ -12,7 +12,7 @@ def git_pull_push(repo_path, student, teacher):
 
         repo.git.execute("git pull")
         repo.git.execute("git add .")
-        repo.git.execute(f'''git commit -m "Add {student} Project by {teacher}"''')
+        repo.git.execute(f'''git commit -m "Uploading the Projects Made by {student} from {teacher}'s Class"''')
         repo.git.execute("git push")
 
         print(f"File project {student} pada folder {repo_path} berhasil di upload")
