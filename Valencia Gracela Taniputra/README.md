@@ -1,0 +1,1 @@
+This is a Folder containing some personal project created by Valencia Gracela Taniputra during her time learning in Koding Next Samarinda

@@ -1,6 +1,6 @@
 import git
 
-studentName = "Valencia Gracela Taniputra"
+studentName = "Valerie Eve Taniputra"
 teacherName = "Mr. Ahmad Yazid"
 
 
